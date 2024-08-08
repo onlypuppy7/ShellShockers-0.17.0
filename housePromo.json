@@ -1,0 +1,112 @@
+{
+	"big": [
+		{
+			"label": "Killstreak",
+			"link": "https://killstreak.tv",
+			"active": false,
+			"id": "big_jqqcpmtv0",
+			"imageExt": ".png"
+		},
+		{
+			"active": false,
+			"label": "Christmas",
+			"linksToTaggedItems": "Christmas",
+			"imageExt": ".jpg",
+			"id": "big_jpsrtrnt1"
+		},
+		{
+			"active": false,
+			"imageExt": ".jpg",
+			"linksToNugget": "1",
+			"label": "golden chicken",
+			"id": "big_jrtkjeer2"
+		},
+		{
+			"active": false,
+			"link": "http://eepurl.com/dFPPwb",
+			"label": "New Yolker",
+			"imageExt": ".jpg",
+			"id": "big_jrb5pyts3"
+		},
+		{
+			"active": false,
+			"label": "Groundhog Day",
+			"linksToTaggedItems": "GroundhogDay",
+			"imageExt": ".jpg",
+			"id": "big_jrb9knhi4"
+		},
+		{
+			"active": false,
+			"imageExt": ".jpg",
+			"label": "F13",
+			"link": "https://www.nintendo.com/games/detail/friday-the-13th-killer-puzzle-switch",
+			"id": "big_jrpz9gpu5"
+		},
+		{
+			"imageExt": ".jpg",
+			"label": "Postmortem",
+			"link": "https://mysteriouspackage.com/products/post-mortem-los-angeles/?utm_source=ssads",
+			"active": true,
+			"id": "big_jrtkgagm6"
+		}
+	],
+	"small": [
+		{
+			"label": "Killstreak",
+			"active": true,
+			"id": "small_jqrb278j0",
+			"link": "https://killstreak.tv",
+			"imageExt": ".jpg"
+		},
+		{
+			"label": "Christmas",
+			"linksToTaggedItems": "Christmas",
+			"imageExt": ".jpg",
+			"id": "small_jpsrtrnt1",
+			"active": false
+		},
+		{
+			"active": true,
+			"imageExt": ".jpg",
+			"label": "golden chicken",
+			"linksToNugget": "1",
+			"id": "small_jrcg5kdk2"
+		},
+		{
+			"active": true,
+			"label": "new yolker",
+			"imageExt": ".jpg",
+			"link": "http://eepurl.com/dFPPwb",
+			"id": "small_jrpzo6223"
+		},
+		{
+			"active": false,
+			"label": "groundhog",
+			"linksToTaggedItems": "GroundhogDay",
+			"imageExt": ".jpg",
+			"id": "small_jrb9knhi4"
+		},
+		{
+			"active": true,
+			"link": "https://shell-shockers.myshopify.com/collections/all",
+			"imageExt": ".jpg",
+			"label": "Merch",
+			"id": "small_jrejv5px5"
+		},
+		{
+			"active": false,
+			"imageExt": ".jpg",
+			"label": "f13",
+			"link": "https://www.nintendo.com/games/detail/friday-the-13th-killer-puzzle-switch",
+			"id": "small_jrpzagck6"
+		},
+		{
+			"active": true,
+			"imageExt": ".jpg",
+			"link": "https://mysteriouspackage.com/products/post-mortem-los-angeles/?utm_source=ssads",
+			"label": "Postmortem",
+			"id": "small_jrtkgagm7"
+		}
+	],
+	"houseAdPercentChance": 100
+}
